@@ -1,10 +1,12 @@
 # Asset Requesting App
-Website: https://gfi-asset-request.herokuapp.com/
+Website: (https://gfi-asset-request.herokuapp.com/)[https://gfi-asset-request.herokuapp.com/]
+
 Sample Login Username/Password: test/hydrate
+
 Github: xxx
 
 ## Summary
-I am the head of Galaxy Fighters International (GFI), an NFT gaming guild in Galaxy Fight Club. Within this guild, my 20+ scholars borrow NFT assets such as weapons and fighters to play the game. They often have requests for different weapons, and I needed a system to manage their requests. To do this, I created an application where they can sign in to submit and cancel requests to borrow assets, and I can manage the requests by marking them as completed, rejected, or adding comments.
+I am the head of Galaxy Fighters International (GFI), an NFT gaming guild in (Galaxy Fight Club)[https://galaxyfightclub.com/]. Within this guild, my 20+ scholars borrow NFT assets such as weapons and fighters to play the game. They often have requests for different weapons, and I needed a system to manage their requests. To do this, I created an application where they can sign in to submit and cancel requests to borrow assets, and I can manage the requests by marking them as completed, rejected, or adding comments.
 
 ## Project Specs
 - each scholar can sign in to app and submit requests
