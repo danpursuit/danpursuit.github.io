@@ -1,5 +1,5 @@
 # Asset Requesting App
-Website: (https://gfi-asset-request.herokuapp.com/)[https://gfi-asset-request.herokuapp.com/]
+Website: [https://gfi-asset-request.herokuapp.com/](https://gfi-asset-request.herokuapp.com/)
 
 Sample Login Username/Password: test/hydrate
 
