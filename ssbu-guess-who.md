@@ -1,5 +1,5 @@
 # Super Smash Bros Character Guessing Game
-Website: (https://ssbu-guess.herokuapp.com/)[https://ssbu-guess.herokuapp.com/]
+Website: [https://ssbu-guess.herokuapp.com/](https://ssbu-guess.herokuapp.com/)
 
 Github: xxx
 
