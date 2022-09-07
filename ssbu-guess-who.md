@@ -34,9 +34,7 @@ will report their high score by sending back the seed, their score, and the last
 the seed was the correct one sent, then replaying the whole game by generating N characters (N=their score) and seeing if the last generated character matches!
 Of course, ridiculously high scores will be filtered out so the server doesn't crash--the player only has 30 seconds after all.
 
-When creating the leaderboard, I opted to go without an external database to save on DB costs. From the past, I know that saving to a local file doesn't
-work on Heroku so I didn't bother (and their internal DB tools will be premium features soon). Unfortunately that means the high scores will not be saved
-on server reboots, so I manually saved some scores into the code that me and my tester friends set :)
+When creating the leaderboard, I initially opted to go without an external database to save on DB costs. From the past, I know that saving to a local file doesn't work on Heroku so I didn't bother (and their internal DB tools will be premium features soon). Unfortunately that means the high scores will not be loaded in on reboot, and later I realized Heroku was rebooting the server whenever nobody was using the app to save costs. So to save the high scores, I ended up forking up the several cents per day and connecting my server to MySQL. Now that I'm practiced in this step, it took nearly no time at all!
 
 As my application grew in size, I started to incrementally tackle the object/class/file structure. Especially for smaller learning projects, I am a big fan
 of not overplanning the initial structure, and planning for refactors along the way as it becomes apparent what my needs are. One thing I realized, which 
