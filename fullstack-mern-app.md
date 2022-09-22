@@ -1,10 +1,10 @@
 # Full Stack MERN Application
-Website: [https://blog-tutorial-888.herokuapp.com/](https://blog-tutorial-888.herokuapp.com/)
+Website: This project has been taken offline since the advent of [my newer, personalized Super Smash Bros. blog!](https://kazuyasmash.herokuapp.com/)
 
 Github: xxx
 
 ## Summary
-![MainMenu](img/MainMenu.png)
+<img src="img/fullstack_MainMenu.png" alt="MainMenu" title="MainMenu" width="600" height="441" /> 
 On my journey to becoming a great fullstack engineer, my time is split between learning new tools/concepts, and building projects to solidify these concepts.
 However, I have issues with scaling. I haven't learned what a good project structure looks like--one that allows for new components to be added, old components
 to be modified, and what "proper" integrations of databases/authentications looks like.
