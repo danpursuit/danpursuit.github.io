@@ -4,6 +4,7 @@ Website: [https://ssbu-guess.herokuapp.com/](https://ssbu-guess.herokuapp.com/)
 Github: xxx
 
 ## Summary
+<img src="img/ssbuguess.png" alt="GuessWho" title="GuessWho" width="600" height="722" /> 
 I love super smash bros! This is my tribute to Mr. Sakurai, inspired by the classic hangman. It's a short game where the user is shown a slice of a smash bros character,
 and has to type their name as fast as possible. Each mistake will cost them some time and show more of the character. After 30 seconds is up, if their score
 is in the top 10 scores on the server, they get to send in their name to record their high score!

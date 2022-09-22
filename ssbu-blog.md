@@ -4,6 +4,7 @@ Website: [https://kazuyasmash.herokuapp.com/](https://kazuyasmash.herokuapp.com/
 Github: xxx
 
 ## Summary
+<img src="img/kazuya_MainMenu.png" alt="MainMenu" title="MainMenu" width="600" height="463" /> 
 After my [last project](https://danpursuit.github.io/fullstack-mern-app) where I followed a 7.5 hour tutorial to create a fullstack MERN application, it's
 time to make this project truly my own! This means iterating over the code to add new features and styling, while also using the actual application to
 see how to enhance the user experience. At the end, I have a blog in the theme of my favorite Smash character Kazuya, and it's filled with Kazuya content.
