@@ -4,6 +4,7 @@ Website: [https://blog-tutorial-888.herokuapp.com/](https://blog-tutorial-888.he
 Github: xxx
 
 ## Summary
+![MainMenu](img/MainMenu.png)
 On my journey to becoming a great fullstack engineer, my time is split between learning new tools/concepts, and building projects to solidify these concepts.
 However, I have issues with scaling. I haven't learned what a good project structure looks like--one that allows for new components to be added, old components
 to be modified, and what "proper" integrations of databases/authentications looks like.
