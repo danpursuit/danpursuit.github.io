@@ -1,8 +1,6 @@
 # Super Smash Bros Character Guessing Game
 Website: [https://ssbu-guess.herokuapp.com/](https://ssbu-guess.herokuapp.com/)
 
-Github: xxx
-
 ## Summary
 <img src="img/ssbuguess.png" alt="GuessWho" title="GuessWho" width="600" height="722" /> 
 I love super smash bros! This is my tribute to Mr. Sakurai, inspired by the classic hangman. It's a short game where the user is shown a slice of a smash bros character,

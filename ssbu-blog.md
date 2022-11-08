@@ -1,8 +1,6 @@
 # Super Smash Bros. Blog
 Website: [https://kazuyasmash.herokuapp.com/](https://kazuyasmash.herokuapp.com/)
 
-Github: xxx
-
 ## Summary
 <img src="img/kazuya_MainMenu.png" alt="MainMenu" title="MainMenu" width="600" height="463" /> 
 After my [last project](https://danpursuit.github.io/fullstack-mern-app) where I followed a 7.5 hour tutorial to create a fullstack MERN application, it's

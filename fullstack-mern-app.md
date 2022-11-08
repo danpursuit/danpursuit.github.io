@@ -1,8 +1,6 @@
 # Full Stack MERN Application
 Website: This project has been taken offline since the advent of [my newer, personalized Super Smash Bros. blog!](https://kazuyasmash.herokuapp.com/)
 
-Github: xxx
-
 ## Summary
 <img src="img/fullstack_MainMenu.png" alt="MainMenu" title="MainMenu" width="600" height="441" /> 
 On my journey to becoming a great fullstack engineer, my time is split between learning new tools/concepts, and building projects to solidify these concepts.
