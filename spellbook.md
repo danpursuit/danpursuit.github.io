@@ -1,12 +1,14 @@
 # Spellbook: Demo
 Website: [https://spellbookdemo.herokuapp.com/](https://spellbookdemo.herokuapp.com/)
 
+Github (Client): [https://github.com/danpursuit/spellbook-client](https://github.com/danpursuit/spellbook-client)
+Github (Server): [https://github.com/danpursuit/spellbook-server](https://github.com/danpursuit/spellbook-server)
+
 ## Summary
 <img src="img/spellbook_MainMenu.png" alt="MainMenu" title="MainMenu" width="600" height="364" /> 
 This project puts my MERN stack knowledge and Stable Diffusion creative abilities to the test! My vision is to create a multiplayer online game that
 involves real time strategy and coherent, fantasy graphics. I also wanted to give the UI a Pokemon Showdown style feel, where the player can join a lobby
-to chat with other players, send friendly challenges, and spectate games. This is my capstone project for my Javascript learning--tying everything I've learned together in one beautiful
-application
+to chat with other players, send friendly challenges, and spectate games. This is my capstone project for my Javascript learning--tying together everything that I've learned, into one beautiful application.
 
 ## Project Specs
 - Create a site with a Navbar, a Character Select page, and a Welcome page
