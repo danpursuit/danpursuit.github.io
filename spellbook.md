@@ -2,6 +2,7 @@
 Website: [https://spellbookdemo.herokuapp.com/](https://spellbookdemo.herokuapp.com/)
 
 Github (Client): [https://github.com/danpursuit/spellbook-client](https://github.com/danpursuit/spellbook-client)
+
 Github (Server): [https://github.com/danpursuit/spellbook-server](https://github.com/danpursuit/spellbook-server)
 
 ## Summary
