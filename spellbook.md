@@ -36,7 +36,16 @@ Similar to the blog that I created in the past, Spellbook allows users to authen
 Before building the actual game, I built a chat room on the website for users to talk. This will be an important function of the app, and also lets me practice working with the websocket futher. Using knowledge from past tutorials, I designed a chat room state to maintain on the server side, and methods to pass either the whole state or just deltas to the client, depending on whether they are just connecting, or already connected and listening for updates. Clients also have the ability to pass in updates to the state, which simply consists of joining/leaving the room or sending messages. When I build the game later, I'll essentially be building a glorified chat room that also manages a state on the server, communicates state with the client, and displays state via graphics and text.
 
 ### Step 4, Notifications
-At this point it's worth noting for new readers that I'm using React Redux to manage state on the client side.
+I'm using React Redux to manage state on the client side, and pop up notifications is both a fun way for me to visualize state changes and report them to the user. (image of notifications here). Though not originally planned, I added some neat notifications that appear above the main application. I'm even able to reuse the X button component that I designed for my tabs, which only appears when its parent is hovered.
+
+### Step 5, Game Time! Front End
+The main "game" is really a visualization of the underlying game state, which consists of two characters, their current stats, and their current actions. I envisioned this to look similar to a Pokemon battle, with their sprite and stat bars. Each component is responsible for displaying part of the state, and by passing the full state of the game into the outer battle container, all components will update to the current state. I also build the search bar in this step, with custom events overwriting the functions of some keys like the numbers, tab, and enter.
+
+### Step 6, Game Time! Back End
+At the same time, I also need to build the proper data structures and logic to update them on the server end. This is easy enough, since the game state only consists of two players (think Pokemon). The game loop itself consists of checking a queue of actions, and broadcasting the updated state after actions are processed. To help users play in real time, clients will also receive the pending actions, so that they can process at the same time as the server and update the state. Actions are abstracted into lists of "effects", so that the only file needed to handle action logic simply contains a method to apply every effect in the game. This is anything from "deal damage", to "consume mana", to "equip weapon". I'm also making sure to use enums instead of strings for game mechanics like "fire"/"shadow" type or "priest" class.
+
+### Step 7, Game Time! Character and Graphic Design
+Creating the character portraits at the start is one thing, but putting my vision of them into actual video game moves is another.
 
 Time spent on project: 200 hours over 40 days. Whew!
 
