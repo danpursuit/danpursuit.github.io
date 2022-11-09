@@ -1,5 +1,7 @@
 # Projects
 
+Projects hosted on Heroku may take ~10 seconds to load the application, since Heroku's free plan will go to sleep when applications are inactive.
+
 | Project | Description | Link|
 |:--------------|:------------------|:-----------|
 | Spellbook Online Game | My capstone project! A full online multiplayer game running on the MERN stack + socket.io. Graphics created entirely by me, with GIMP + Stable Diffusion. | [Website](https://spellbookdemo.herokuapp.com/)<br/>[Details](https://danpursuit.github.io/spellbook)|
