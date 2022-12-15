@@ -4,6 +4,7 @@ Projects hosted on Heroku may take ~10 seconds to load the application, since He
 
 | Project | Description | Link|
 |:--------------|:------------------|:-----------|
+| AI1 (All is One) | Experience the magic of AI with my own local WebUI, with Text2Image, Image2Image, and more art generation capabilities. Fully open-source, and easy to install.| [Github](https://github.com/danpursuit/all-is-one)<br/>[Installation](https://www.youtube.com/watch?v=G877d49MWRg)|
 | Spellbook Online Game | My capstone project! A full online multiplayer game running on the MERN stack + socket.io. Graphics created entirely by me, with GIMP + Stable Diffusion. | [Website](https://spellbookdemo.herokuapp.com/)<br/>[Details](https://danpursuit.github.io/spellbook)|
 | Super Smash Blog | A blog application built off of my last project, packed with completely new styling, an updated Material UI version, and new smash-y features. | [Website](https://kazuyasmash.herokuapp.com/)<br/>[Details](https://danpursuit.github.io/ssbu-blog)|
 | Full Stack MERN App | A blog application with MongoDB backend. Users can register, sign in, comment, and leave a like! | [Details](https://danpursuit.github.io/fullstack-mern-app)<br/>(Website has been removed in favor of the Super Smash Blog! See Details for old screenshots)|
